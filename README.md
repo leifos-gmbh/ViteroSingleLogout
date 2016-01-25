@@ -13,7 +13,7 @@ in a vitero virtual team room in ILIAS. You need the ILIAS vitero plugin to use 
 1.5.1
 
 **Responsible Developer:**
-Stefan Meyer - meyer AT leifos.com
+Fabian Wolf - wolf AT leifos.com
 
 **Supported Languages:**
 German, English
