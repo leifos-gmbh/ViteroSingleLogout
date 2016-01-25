@@ -13,7 +13,7 @@ class ilViteroSingleLogoutPlugin extends ilEventHookPlugin
 	const VIT_CNAME = 'Repository';
 	const VIT_SLOT_ID = 'robj';
 	const VIT_PNAME = 'Vitero';
-	const VIT_MIN_VERSION = '1.5.1';
+	const VIT_MIN_VERSION = '1.6.0';
 
 	/**
 	 * @var ilViteroPlugin
