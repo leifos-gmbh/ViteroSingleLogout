@@ -1,4 +1,4 @@
-# Vitero
+# ViteroSingleLogout
 
 Vitero  is a commercial conferencing tool. This plugin gives the possibility to logout users
 in a vitero virtual team room in ILIAS. You need the ILIAS vitero plugin to use vitero virtual team rooms in ILIAS.
@@ -17,6 +17,9 @@ Fabian Wolf - wolf AT leifos.com
 
 **Supported Languages:**
 German, English
+
+**Bug Tracker:**
+[ILIAS MantisBT](http://www.ilias.de/mantis/search.php?project_id=3&category=Vitero)
 
 ### Quick Installation Guide
 1. Copy the content of this folder in <ILIAS_directory>/Customizing/global/plugins/Services/EventHandling/EventHook/ViteroSingleLogout
