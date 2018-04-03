@@ -4,10 +4,10 @@ Vitero  is a commercial conferencing tool. This plugin gives the possibility to 
 in a vitero virtual team room in ILIAS. You need the ILIAS vitero plugin to use vitero virtual team rooms in ILIAS.
 
 **Minimum ILIAS Version:**
-5.1.1
+5.3.1
 
 **Maximum ILIAS Version:**
-5.1.999
+5.3.999
 
 **Minimum Vitero Plugin Version:**
 1.6.0

@@ -4,7 +4,7 @@
 $id = "xvitsl";
 
 // code version; must be changed for all code changes
-$version = "5.3.2.1";
+$version = "5.3.3";
 
 // ilias min and max version; must always reflect the versions that should
 // run with the plugin
